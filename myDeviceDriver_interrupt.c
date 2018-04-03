@@ -99,7 +99,7 @@ struct _mydevice_file_data{
 
 
 static const char * const shutdown_argv[]=
-      {"/usr/sbin/shutdown", "-h", "-P", "now", NULL};
+      {"/sbin/shutdown", "-h", "-P", "now", NULL};
 
 
 static irqreturn_t irq_handler(int irq, void *arg){
