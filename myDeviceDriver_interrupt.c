@@ -23,9 +23,6 @@
 #include <linux/syslog.h>
 #include <linux/signal.h>
 
-/*------s5P4418 GPIO Register value---------------------*/
-/*------s5P4418 GPIO Register value---------------------*/
-
 
 /*debug switch ---------------------------------------*/
 #define  DEVICE_WRITE
